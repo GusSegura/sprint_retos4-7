@@ -1,0 +1,15 @@
+{
+  "name": "reto-06",
+  "version": "1.0.0",
+  "description": "Crear un servidor en Express.js que exponga una ruta `/contar` donde se reciba un objeto por JSON (POST) y devuelva cuántas propiedades tiene.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

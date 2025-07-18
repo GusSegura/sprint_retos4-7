@@ -1,0 +1,15 @@
+{
+  "name": "reto-04",
+  "version": "1.0.0",
+  "description": "En este reto pondrás en práctica tu conocimiento de:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
